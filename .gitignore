@@ -2,6 +2,7 @@
 
 !.gitignore
 !LICENSE
+!CMakeLists.txt
 
 !*.md
 !*.sv
